@@ -49,7 +49,8 @@ pip install win10toast
 Change ```C:\Users\AdityaZope\Anaconda3\envs\WebScrapping\pythonw.exe``` in ```star.bat``` to ```YOUR pythonw.exe PATH```<br><br>
 And ```C:\Users\AdityaZope\PycharmProjects\WebScrapping\CodechefActivity.py``` in ```star.bat``` to ```LOCATION OF CodechefActivity.py WHERE YOU EXTRACTED ZIP```<br><br>
 Create desktop shortcut to ```start.vbs``` and ```stop.vbs``` and assign keyboard shortcuts.<br><br>
-Use ```start.vbs``` to run and ```stop.vbs``` to stop a running script.
+Use ```start.vbs``` to run and ```stop.vbs``` to stop a running script.<br><br>
+Add the usernames of coders whom u want to track in ```usernames.txt``` file,one on each line.
 ## Acknowledgments
 
 * [Jithu R Jacob](https://github.com/jithurjacob) for Python Windows 10 notification library.
