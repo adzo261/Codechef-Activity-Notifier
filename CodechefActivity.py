@@ -95,7 +95,7 @@ f=open("recent_data.txt","w")
 for data in recent_data:
     f.write(data + "\n")
     print("Wrote " + data + "\n")
-    f.close()
+f.close()
 
 
 ##############################################THE END#####################################################
