@@ -27,10 +27,10 @@ PyQt5
 ```
 win10toast
 ```
-Refer [requirements.txt](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
+Refer [requirements.txt](https://github.com/adzo261/Codechef-Activity-Notifier/blob/master/requirements.txt)
 ### Installing
 ```
- pip install beautifulsoup4
+pip install beautifulsoup4
 ```
 ```
 pip install lxml
