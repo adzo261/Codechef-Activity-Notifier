@@ -2,6 +2,9 @@
 
 Codechef Activity Notifier is a python script, which can be executed by setting a keyboard shortcut,
 and we will get the recent submission of required users straight as a notification on Windows 10 OS.
+### Screenshots
+
+   ![Alt text](sshots1.png?raw=true "Optional Title") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](sshots2.png?raw=true "Optional Title")
 
 ## Getting Started
 
@@ -41,8 +44,13 @@ pip install pyqt5
 ```
 pip install win10toast
 ```
+### Instructions
 
+Change ```C:\Users\AdityaZope\Anaconda3\envs\WebScrapping\pythonw.exe``` in ```star.bat``` to ```YOUR pythonw.exe PATH```<br><br>
+And ```C:\Users\AdityaZope\PycharmProjects\WebScrapping\CodechefActivity.py``` in ```star.bat``` to ```LOCATION OF CodechefActivity.py WHERE YOU EXTRACTED ZIP```<br><br>
+Create desktop shortcut to ```start.vbs``` and ```stop.vbs``` and assign keyboard shortcuts.<br><br>
+Use ```start.vbs``` to run and ```stop.vbs``` to stop a running script.
 ## Acknowledgments
 
-* [Jithu R Jacob](https://github.com/jithurjacob) for python windows notification library.
+* [Jithu R Jacob](https://github.com/jithurjacob) for Python Windows 10 notification library.
 * [Codechef](https://www.codechef.com/) for inspiration.
